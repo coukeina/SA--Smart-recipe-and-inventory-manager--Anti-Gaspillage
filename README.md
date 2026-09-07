@@ -17,6 +17,6 @@ Une application web qui aide à lutter contre le gaspillage alimentaire. Il suff
 1. Clone the repository
 
 ```
-git clone https://github.com/coukeina/SA--Smart-recipe-and-inventory-manager--Anti-Gaspillage/
+git clone https://github.com/coukeina/SAe_Smart_Finder/
 ```
 
