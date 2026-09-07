@@ -2,12 +2,6 @@
 
 Une application web qui aide à lutter contre le gaspillage alimentaire. Il suffit de prendre une photo de son réfrigérateur ou de son placard : l'application identifie automatiquement les ingrédients présents et propose des recettes adaptées.
 
-## Table of Contents
-
-* [Preview](#preview)
-* [Features](#features)
-* [Installation](#installation)
-
 
 ## Features
 
@@ -23,7 +17,7 @@ Une application web qui aide à lutter contre le gaspillage alimentaire. Il suff
 1. Clone the repository
 
 ```
-git clone https://github.com/coukeina/SA--Smart-recipe-and-inventory-manager--Anti-Gaspillage/tree/main)
+git clone https://github.com/coukeina/SA--Smart-recipe-and-inventory-manager--Anti-Gaspillage/tree/main
 cd 
 ```
 
